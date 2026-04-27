@@ -89,3 +89,10 @@ Metric	Value
 Total Revenue	2.6M+
 Top Product	Phone
 Best Category	Electronics
+![Spark Setup](Spark%20setup.png)
+
+![Graph](Graph%20(Very%20IMPORTANT).png)
+
+![ETL](ETL%20transformation.png)
+
+![DataFrame](DataFrame%20output.png)
